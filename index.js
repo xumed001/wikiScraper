@@ -1,55 +1,45 @@
-
 const puppeteer = require('puppeteer');
-const fs = require('fs-extra');
+const fs = require('fs');
 
+async function scrapeInnerTextFromTable() {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
 
-const scrapeTable = async () => {
-  try {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    await page.goto('https://en.wikipedia.org/wiki/2023_in_video_games#Series_with_new_entries');
-    // await page.waitForSelector('DOMContentLoaded');
+  // Navigate to the Wikipedia page
+  await page.goto('https://en.wikipedia.org/wiki/2023_in_video_games');
 
-    const tableData = await page.evaluate(() => {
-      const table = document.querySelector('table.wikitable')[6];
-      const rows = table.querySelectorAll('tr');
-      const data = [];
+  // Wait for the table to be visible on the page
+  await page.waitForSelector('#mw-content-text table.wikitable');
 
-      for (let i = 1; i < rows.length; i++) {
-        const row = rows[i];
-        const columns = row.querySelectorAll('td');
-        const rowData = [];
+  // Retrieve the innerText of the table
+  const innerText = await page.evaluate(() => {
+    const tableArr = Array.from(document.querySelectorAll('.wikitable'))
+    return tableArr[6].innerText;
+  });
 
-        for (let j = 0; j < columns.length; j++) {
-          const cell = columns[j];
-          rowData.push(cell.innerText.trim());
-        }
+  const lines = innerText.split('\n');
+const headers = lines[0].split('\t');
 
-        data.push(rowData);
-      }
-
-      return data;
-    });
-
-    await browser.close();
-    return tableData;
-  } catch (error) {
-    console.error('An error occurred while scraping the table:', error);
-    return null;
+const games = [];
+for (let i = 1; i < lines.length; i++) {
+  const values = lines[i].split('\t');
+  const game = {};
+  for (let j = 0; j < headers.length; j++) {
+    game[headers[j]] = values[j];
   }
-};
+  games.push(game);
+}
 
-scrapeTable().then((tableData) => {
-  if (tableData) {
-    const jsonData = JSON.stringify(tableData, null, 2);
-    fs.writeFile('tableDataFirst.json', jsonData, (err) => {
-      if (err) {
-        console.error('Error saving the JSON file:', err);
-      } else {
-        console.log('Table data saved as tableData.json');
-      }
-    });
-  }
-});
+  const jsonData = { games };
+  
+  // Convert the array to JSON
+  const jsonDataFinal = JSON.stringify(jsonData, null, 2);
+  
+  // Save the JSON to a file
+  fs.writeFileSync('games.json', jsonDataFinal);
 
+  await browser.close();
+}
+
+scrapeInnerTextFromTable();
 

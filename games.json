@@ -1,0 +1,1370 @@
+{
+  "games": [
+    {
+      "Month": "J"
+    },
+    {
+      "Month": "A"
+    },
+    {
+      "Month": "N"
+    },
+    {
+      "Month": "U"
+    },
+    {
+      "Month": "A"
+    },
+    {
+      "Month": "R"
+    },
+    {
+      "Month": "Y",
+      "Day": "5",
+      "Title": "Shieldmaiden: Remix Edition",
+      "Platform(s)": "NS, XBO, XSX",
+      "Genre(s)": "Action platform",
+      "Developer(s)": "Dumativa",
+      "Publisher(s)": "Dumativa",
+      "Ref.": "[41][42]"
+    },
+    {
+      "Month": "11",
+      "Day": "Children of Silentown",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Dark adventure",
+      "Genre(s)": "Elf Games",
+      "Developer(s)": "Daedalic Entertainment",
+      "Publisher(s)": "[43]"
+    },
+    {
+      "Month": "Sailing Era",
+      "Day": "Win",
+      "Title": "Simulation, role-playing",
+      "Platform(s)": "Gy Games",
+      "Genre(s)": "Bilibili",
+      "Developer(s)": "[44]"
+    },
+    {
+      "Month": "12",
+      "Day": "Drago Noka",
+      "Title": "Win, NS",
+      "Platform(s)": "Construction and management simulation",
+      "Genre(s)": "Gesei Unkan",
+      "Developer(s)": "Playism",
+      "Publisher(s)": "[45]"
+    },
+    {
+      "Month": "Lone Ruin",
+      "Day": "Win, NS",
+      "Title": "Roguelike",
+      "Platform(s)": "Super Rare Originals",
+      "Genre(s)": "Cuddle Monster Games",
+      "Developer(s)": "[46]"
+    },
+    {
+      "Month": "Vengeful Guardian: Moonrider",
+      "Day": "Win, NS, PS4, PS5",
+      "Title": "Action platform",
+      "Platform(s)": "JoyMasher",
+      "Genre(s)": "The Arcade Crew",
+      "Developer(s)": "[47]"
+    },
+    {
+      "Month": "13",
+      "Day": "Dragon Ball Z: Kakarot",
+      "Title": "PS5",
+      "Platform(s)": "Action role-playing",
+      "Genre(s)": "CyberConnect2",
+      "Developer(s)": "Bandai Namco Entertainment",
+      "Publisher(s)": "[48][49]"
+    },
+    {
+      "Month": "One Piece Odyssey",
+      "Day": "Win, PS4, PS5, XSX",
+      "Title": "Role-playing",
+      "Platform(s)": "ILCA",
+      "Genre(s)": "Bandai Namco Entertainment",
+      "Developer(s)": "[50]"
+    },
+    {
+      "Month": "18",
+      "Day": "Graze Counter GM",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Shoot 'em up",
+      "Genre(s)": "Bikkuri Software",
+      "Developer(s)": "Henteko Doujin",
+      "Publisher(s)": "[51]"
+    },
+    {
+      "Month": "19",
+      "Day": "A Space for the Unbound",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Adventure",
+      "Genre(s)": "Mojiken Studio",
+      "Developer(s)": "Toge Productions",
+      "Publisher(s)": "[52][53]"
+    },
+    {
+      "Month": "Colossal Cave",
+      "Day": "Win, NS, PS5, XSX",
+      "Title": "Adventure",
+      "Platform(s)": "Cygnus Entertainment",
+      "Genre(s)": "Cygnus Entertainment",
+      "Developer(s)": "[54]"
+    },
+    {
+      "Month": "NeverAwake",
+      "Day": "NS, PS4, PS5",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Neotro",
+      "Genre(s)": "Phoenixx",
+      "Developer(s)": "[55]"
+    },
+    {
+      "Month": "Persona 3 Portable",
+      "Day": "Win, NS, PS4, XBO, XSX",
+      "Title": "Role-playing, social simulation",
+      "Platform(s)": "Atlus",
+      "Genre(s)": "Sega",
+      "Developer(s)": "[56][57]"
+    },
+    {
+      "Month": "Persona 4 Golden",
+      "Day": "NS, PS4, XBO, XSX",
+      "Title": "Role-playing, social simulation",
+      "Platform(s)": "Atlus",
+      "Genre(s)": "Sega",
+      "Developer(s)": "[56][57]"
+    },
+    {
+      "Month": "Tortuga: A Pirate's Tale",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Strategy, adventure",
+      "Platform(s)": "Gaming Minds Studios",
+      "Genre(s)": "Kalypso Media",
+      "Developer(s)": "[58]"
+    },
+    {
+      "Month": "20",
+      "Day": "Fire Emblem Engage",
+      "Title": "NS",
+      "Platform(s)": "Tactical role-playing",
+      "Genre(s)": "Intelligent Systems",
+      "Developer(s)": "Nintendo",
+      "Publisher(s)": "[59]"
+    },
+    {
+      "Month": "Monster Hunter Rise",
+      "Day": "PS4, PS5, XBO, XSX",
+      "Title": "Action role-playing",
+      "Platform(s)": "Capcom",
+      "Genre(s)": "Capcom",
+      "Developer(s)": "[60]"
+    },
+    {
+      "Month": "23",
+      "Day": "Various Daylife",
+      "Title": "iOS, Droid",
+      "Platform(s)": "Role-playing",
+      "Genre(s)": "Dokidoki Grooveworks, Square Enix",
+      "Developer(s)": "Square Enix",
+      "Publisher(s)": "[61]"
+    },
+    {
+      "Month": "24",
+      "Day": "Forspoken",
+      "Title": "Win, PS5",
+      "Platform(s)": "Action role-playing",
+      "Genre(s)": "Luminous Productions",
+      "Developer(s)": "Square Enix",
+      "Publisher(s)": "[62]"
+    },
+    {
+      "Month": "Hyperdimension Neptunia: Sisters vs. Sisters[a]",
+      "Day": "Win, PS4, PS5",
+      "Title": "Role-playing",
+      "Platform(s)": "Compile Heart",
+      "Genre(s)": "Idea Factory",
+      "Developer(s)": "[63]"
+    },
+    {
+      "Month": "Risen",
+      "Day": "NS, PS4, XBO",
+      "Title": "Action role-playing",
+      "Platform(s)": "Piranha Bytes",
+      "Genre(s)": "THQ Nordic",
+      "Developer(s)": "[64]"
+    },
+    {
+      "Month": "Warlander",
+      "Day": "Win",
+      "Title": "Action",
+      "Platform(s)": "Toylogic",
+      "Genre(s)": "Plaion",
+      "Developer(s)": "[65]"
+    },
+    {
+      "Month": "25",
+      "Day": "Hi-Fi Rush",
+      "Title": "Win, XSX",
+      "Platform(s)": "Rhythm, action",
+      "Genre(s)": "Tango Gameworks",
+      "Developer(s)": "Bethesda Softworks",
+      "Publisher(s)": "[66]"
+    },
+    {
+      "Month": "26",
+      "Day": "Disgaea 7: Vows of the Virtueless[b]",
+      "Title": "NS, PS4, PS5",
+      "Platform(s)": "Tactical role-playing",
+      "Genre(s)": "Nippon Ichi Software",
+      "Developer(s)": "Nippon Ichi Software",
+      "Publisher(s)": "[67]"
+    },
+    {
+      "Month": "OddBallers",
+      "Day": "Win, NS, PS4, XBO",
+      "Title": "Party",
+      "Platform(s)": "Game Swing, Ubisoft Mumbai",
+      "Genre(s)": "Ubisoft",
+      "Developer(s)": "[68]"
+    },
+    {
+      "Month": "Pizza Tower",
+      "Day": "Win",
+      "Title": "Action, platform",
+      "Platform(s)": "Tour De Pizza",
+      "Genre(s)": "Tour De Pizza",
+      "Developer(s)": "[69]"
+    },
+    {
+      "Month": "Story of Seasons: A Wonderful Life[b]",
+      "Day": "NS",
+      "Title": "Simulation, role-playing",
+      "Platform(s)": "Marvelous",
+      "Genre(s)": "Marvelous",
+      "Developer(s)": "[70]"
+    },
+    {
+      "Month": "Summer Time Rendering: Another Horizon[b]",
+      "Day": "NS, PS4",
+      "Title": "Visual novel",
+      "Platform(s)": "Mages",
+      "Genre(s)": "Mages",
+      "Developer(s)": "[71][72]"
+    },
+    {
+      "Month": "Wonder Boy Anniversary Collection",
+      "Day": "NS, PS4, PS5",
+      "Title": "Various",
+      "Platform(s)": "Bliss Brain",
+      "Genre(s)": "Bliss Brain",
+      "Developer(s)": "[73]"
+    },
+    {
+      "Month": "27",
+      "Day": "Alice Escaped!",
+      "Title": "Win, NS",
+      "Platform(s)": "Metroidvania",
+      "Genre(s)": "illuCalab",
+      "Developer(s)": "Sekai Project",
+      "Publisher(s)": "[74]"
+    },
+    {
+      "Month": "Atone: Heart of the Elder Tree",
+      "Day": "Win, NS, PS4",
+      "Title": "Adventure, puzzle, rhythm",
+      "Platform(s)": "Wildboy Studios",
+      "Genre(s)": "Untold Tales",
+      "Developer(s)": "[75]"
+    },
+    {
+      "Month": "Dead Space",
+      "Day": "Win, PS5, XSX",
+      "Title": "Survival horror",
+      "Platform(s)": "Motive Studios",
+      "Genre(s)": "Electronic Arts",
+      "Developer(s)": "[76]"
+    },
+    {
+      "Month": "Monster Menu: The Scavenger's Cookbook[b]",
+      "Day": "NS, PS4, PS5",
+      "Title": "Strategy, role-playing",
+      "Platform(s)": "Nippon Ichi Software",
+      "Genre(s)": "Nippon Ichi Software",
+      "Developer(s)": "[77]"
+    },
+    {
+      "Month": "30",
+      "Day": "Backfirewall",
+      "Title": "Win, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Adventure",
+      "Genre(s)": "Naraven Games",
+      "Developer(s)": "All in! Games",
+      "Publisher(s)": "[78]"
+    },
+    {
+      "Month": "Trek to Yomi",
+      "Day": "NS",
+      "Title": "Action",
+      "Platform(s)": "Flying Wild Hog",
+      "Genre(s)": "Devolver Digital",
+      "Developer(s)": "[79]"
+    },
+    {
+      "Month": "31",
+      "Day": "8-Bit Adventures 2",
+      "Title": "Win",
+      "Platform(s)": "Role-playing",
+      "Genre(s)": "Critical Games",
+      "Developer(s)": "Critical Games",
+      "Publisher(s)": "[80]"
+    },
+    {
+      "Month": "Age of Empires II: Definitive Edition",
+      "Day": "XBO, XSX",
+      "Title": "Real-time strategy",
+      "Platform(s)": "Forgotten Empires",
+      "Genre(s)": "Xbox Game Studios",
+      "Developer(s)": "[81]"
+    },
+    {
+      "Month": "PowerWash Simulator",
+      "Day": "NS, PS4, PS5",
+      "Title": "Simulation",
+      "Platform(s)": "FuturLab",
+      "Genre(s)": "Square Enix Collective",
+      "Developer(s)": "[82]"
+    },
+    {
+      "Month": "Raiden IV x MIKADO remix[c]",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Moss",
+      "Genre(s)": "NIS America",
+      "Developer(s)": "[83]"
+    },
+    {
+      "Month": "Season: A Letter to the Future",
+      "Day": "Win, PS4, PS5",
+      "Title": "Adventure",
+      "Platform(s)": "Scavengers Studio",
+      "Genre(s)": "Scavengers Studio",
+      "Developer(s)": "[84]"
+    },
+    {
+      "Month": "SpongeBob SquarePants: The Cosmic Shake",
+      "Day": "Win, NS, PS4, XBO",
+      "Title": "Platform",
+      "Platform(s)": "Purple Lamp",
+      "Genre(s)": "THQ Nordic",
+      "Developer(s)": "[85][86]"
+    },
+    {
+      "Month": "We Were Here Forever",
+      "Day": "PS4, PS5, XBO, XSX",
+      "Title": "Puzzle adventure",
+      "Platform(s)": "Total Mayhem Games",
+      "Genre(s)": "Total Mayhem Games",
+      "Developer(s)": "[87]"
+    },
+    {
+      "Month": "F"
+    },
+    {
+      "Month": "E"
+    },
+    {
+      "Month": "B"
+    },
+    {
+      "Month": "R"
+    },
+    {
+      "Month": "U"
+    },
+    {
+      "Month": "A"
+    },
+    {
+      "Month": "R"
+    },
+    {
+      "Month": "Y"
+    },
+    {
+      "Month": "",
+      "Day": "1",
+      "Title": "Football Manager 2023",
+      "Platform(s)": "PS5",
+      "Genre(s)": "Sports",
+      "Developer(s)": "Sports Interactive",
+      "Publisher(s)": "Sega",
+      "Ref.": "[88]"
+    },
+    {
+      "Month": "Rhythm Sprout",
+      "Day": "Win, NS, PS4, PS5, XBO, XSX",
+      "Title": "Rhythm, action",
+      "Platform(s)": "Surt",
+      "Genre(s)": "tinyBuild",
+      "Developer(s)": "[89]"
+    },
+    {
+      "Month": "2",
+      "Day": "Chef Life: A Restaurant Simulator",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Simulation",
+      "Genre(s)": "Cyanide",
+      "Developer(s)": "Nacon",
+      "Publisher(s)": "[90]"
+    },
+    {
+      "Month": "Deliver Us Mars",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Adventure",
+      "Platform(s)": "KeokeN Interactive",
+      "Genre(s)": "Frontier Foundry",
+      "Developer(s)": "[91]"
+    },
+    {
+      "Month": "Fashion Police Squad",
+      "Day": "NS, PS4, PS5, XBO, XSX",
+      "Title": "First-person shooter",
+      "Platform(s)": "No More Robots",
+      "Genre(s)": "Mopeful Games",
+      "Developer(s)": "[92]"
+    },
+    {
+      "Month": "Life Is Strange 2",
+      "Day": "NS",
+      "Title": "Graphic adventure",
+      "Platform(s)": "Dontnod Entertainment",
+      "Genre(s)": "Square Enix",
+      "Developer(s)": "[93]"
+    },
+    {
+      "Month": "Puzzle Bobble 2 / Bust-A-Move 2 Arcade Edition",
+      "Day": "Win, NS, PS4, XBO",
+      "Title": "Puzzle",
+      "Platform(s)": "City Connection",
+      "Genre(s)": "City Connection",
+      "Developer(s)": "[94]"
+    },
+    {
+      "Month": "Puzzle Bobble 3 / Bust-A-Move 3 S-Tribute",
+      "Day": "[94]"
+    },
+    {
+      "Month": "Tails: The Backbone Preludes",
+      "Day": "Win",
+      "Title": "Noir adventure",
+      "Platform(s)": "EggNut",
+      "Genre(s)": "Raw Fury",
+      "Developer(s)": "[95]"
+    },
+    {
+      "Month": "3",
+      "Day": "Dragon Ball Z: Kakarot",
+      "Title": "XSX",
+      "Platform(s)": "Action role-playing",
+      "Genre(s)": "CyberConnect2",
+      "Developer(s)": "Bandai Namco Entertainment",
+      "Publisher(s)": "[96]"
+    },
+    {
+      "Month": "Helvetii",
+      "Day": "Win, NS, PS4",
+      "Title": "Side-scrolling action roguelike",
+      "Platform(s)": "Team KwaKwa",
+      "Genre(s)": "Team KwaKwa",
+      "Developer(s)": "[97]"
+    },
+    {
+      "Month": "Joe Wander and the Enigmatic Adventures",
+      "Day": "Win, PS5, XSX",
+      "Title": "Puzzle adventure, platform",
+      "Platform(s)": "Frozen Pixel",
+      "Genre(s)": "Frozen Pixel",
+      "Developer(s)": "[98]"
+    },
+    {
+      "Month": "Raiden IV x MIKADO remix[d]",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Moss",
+      "Genre(s)": "NIS America",
+      "Developer(s)": "[83]"
+    },
+    {
+      "Month": "8",
+      "Day": "Metroid Prime Remastered",
+      "Title": "NS",
+      "Platform(s)": "Action-adventure",
+      "Genre(s)": "Retro Studios",
+      "Developer(s)": "Nintendo",
+      "Publisher(s)": "[99]"
+    },
+    {
+      "Month": "WBSC eBaseball: Power Pros",
+      "Day": "NS, PS4",
+      "Title": "Sport, action",
+      "Platform(s)": "Konami",
+      "Genre(s)": "Konami",
+      "Developer(s)": "[100]"
+    },
+    {
+      "Month": "9",
+      "Day": "Mercenaries Lament: Silver Wolf and the Seven Stars of the Maiden[b]",
+      "Title": "NS",
+      "Platform(s)": "Strategy, role-playing",
+      "Genre(s)": "RideonJapan",
+      "Developer(s)": "RideonJapan",
+      "Publisher(s)": "[101]"
+    },
+    {
+      "Month": "10",
+      "Day": "Hogwarts Legacy",
+      "Title": "Win, PS5, XSX",
+      "Platform(s)": "Action role-playing",
+      "Genre(s)": "Avalanche Software",
+      "Developer(s)": "Warner Bros. Interactive",
+      "Publisher(s)": "[102]"
+    },
+    {
+      "Month": "14",
+      "Day": "Blanc",
+      "Title": "Win, NS",
+      "Platform(s)": "Adventure",
+      "Genre(s)": "Casus Ludi",
+      "Developer(s)": "Gearbox Publishing",
+      "Publisher(s)": "[52]"
+    },
+    {
+      "Month": "Journey to the Savage Planet",
+      "Day": "PS5, XSX",
+      "Title": "First-person shooter",
+      "Platform(s)": "Raccoon Logic",
+      "Genre(s)": "505 Games",
+      "Developer(s)": "[103]"
+    },
+    {
+      "Month": "Labyrinth of Galleria: The Moon Society[a]",
+      "Day": "Win, NS, PS4, PS5",
+      "Title": "Action role-playing",
+      "Platform(s)": "Nippon Ichi Software",
+      "Genre(s)": "NIS America",
+      "Developer(s)": "[104]"
+    },
+    {
+      "Month": "Out Zone",
+      "Day": "Win, Linux, Mac",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Bitwave Games",
+      "Genre(s)": "Bitwave Games",
+      "Developer(s)": "[105]"
+    },
+    {
+      "Month": "Souls of Chronos",
+      "Day": "Win, NS, PS5",
+      "Title": "Role-playing",
+      "Platform(s)": "Astrolabe Games",
+      "Genre(s)": "Futu Studio",
+      "Developer(s)": "[106]"
+    },
+    {
+      "Month": "Spy Bros.: Pipi & Bibi's DX",
+      "Day": "Win, NS",
+      "Title": "Platform",
+      "Platform(s)": "RAWRLAB Games",
+      "Genre(s)": "RAWRLAB Games",
+      "Developer(s)": "[107]"
+    },
+    {
+      "Month": "Tomb Raider Reloaded",
+      "Day": "iOS, Droid",
+      "Title": "Roguelike",
+      "Platform(s)": "Emerald City Games",
+      "Genre(s)": "CDE Entertainment",
+      "Developer(s)": "[108]"
+    },
+    {
+      "Month": "Truxton",
+      "Day": "Win, Linux, Mac",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Bitwave Games",
+      "Genre(s)": "Bitwave Games",
+      "Developer(s)": "[105]"
+    },
+    {
+      "Month": "Twin Cobra",
+      "Day": "Win, Linux, Mac",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Bitwave Games",
+      "Genre(s)": "Bitwave Games",
+      "Developer(s)": "[105]"
+    },
+    {
+      "Month": "Wanted: Dead",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Action, hack and slash",
+      "Platform(s)": "Soleil",
+      "Genre(s)": "110 Industries",
+      "Developer(s)": "[109]"
+    },
+    {
+      "Month": "Zero Wing",
+      "Day": "Win, Linux, Mac",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Bitwave Games",
+      "Genre(s)": "Bitwave Games",
+      "Developer(s)": "[105]"
+    },
+    {
+      "Month": "15",
+      "Day": "Goddess of Victory: Nikke",
+      "Title": "Win",
+      "Platform(s)": "Third-person shooter, action role-playing",
+      "Genre(s)": "Shift Up",
+      "Developer(s)": "Level Infinite",
+      "Publisher(s)": "[110]"
+    },
+    {
+      "Month": "Pharaoh: A New Era",
+      "Day": "Win",
+      "Title": "City-building",
+      "Platform(s)": "Triskell Interactive",
+      "Genre(s)": "Dotemu",
+      "Developer(s)": "[111]"
+    },
+    {
+      "Month": "Returnal",
+      "Day": "Win",
+      "Title": "Third-person shooter",
+      "Platform(s)": "Housemarque",
+      "Genre(s)": "Sony Interactive Entertainment",
+      "Developer(s)": "[112][113]"
+    },
+    {
+      "Month": "16",
+      "Day": "Dust & Neon",
+      "Title": "Win, NS",
+      "Platform(s)": "Roguelite",
+      "Genre(s)": "David Marquardt Studios",
+      "Developer(s)": "Rogue Games",
+      "Publisher(s)": "[114]"
+    },
+    {
+      "Month": "Shadow Warrior 3: Definitive Edition",
+      "Day": "Win, PS5, XSX",
+      "Title": "First-person shooter",
+      "Platform(s)": "Flying Wild Hog",
+      "Genre(s)": "Devolver Digital",
+      "Developer(s)": "[115]"
+    },
+    {
+      "Month": "Theatrhythm Final Bar Line",
+      "Day": "NS, PS4",
+      "Title": "Rhythm",
+      "Platform(s)": "indieszero",
+      "Genre(s)": "Square Enix",
+      "Developer(s)": "[116]"
+    },
+    {
+      "Month": "17",
+      "Day": "Rooftop Renegade",
+      "Title": "Win, NS, PS4, XBO",
+      "Platform(s)": "Action, platform",
+      "Genre(s)": "Melonhead Games",
+      "Developer(s)": "Melonhead Games",
+      "Publisher(s)": "[117]"
+    },
+    {
+      "Month": "The Settlers: New Allies",
+      "Day": "Win",
+      "Title": "Strategy",
+      "Platform(s)": "Ubisoft Blue Byte",
+      "Genre(s)": "Ubisoft",
+      "Developer(s)": "[118]"
+    },
+    {
+      "Month": "Tales of Symphonia Remastered",
+      "Day": "NS, PS4, XBO",
+      "Title": "Action role-playing",
+      "Platform(s)": "Bandai Namco Entertainment Romania",
+      "Genre(s)": "Bandai Namco Entertainment",
+      "Developer(s)": "[119][120]"
+    },
+    {
+      "Month": "Wild Hearts",
+      "Day": "Win, PS5, XSX",
+      "Title": "Action role-playing",
+      "Platform(s)": "Omega Force",
+      "Genre(s)": "Electronic Arts",
+      "Developer(s)": "[121]"
+    },
+    {
+      "Month": "21",
+      "Day": "Atomic Heart",
+      "Title": "Win, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Action role-playing, first-person shooter",
+      "Genre(s)": "Mundfish",
+      "Developer(s)": "Focus Entertainment",
+      "Publisher(s)": "[122]"
+    },
+    {
+      "Month": "Like a Dragon: Ishin!",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Action-adventure",
+      "Platform(s)": "Ryu Ga Gotoku Studio",
+      "Genre(s)": "Sega",
+      "Developer(s)": "[123]"
+    },
+    {
+      "Month": "Seven Doors",
+      "Day": "NS, PS4, PS5, XBO, XSX",
+      "Title": "Puzzle",
+      "Platform(s)": "Indigo Studios",
+      "Genre(s)": "Soedesco",
+      "Developer(s)": "[124]"
+    },
+    {
+      "Month": "22",
+      "Day": "Digimon World: Next Order",
+      "Title": "Win, NS",
+      "Platform(s)": "Role-playing",
+      "Genre(s)": "B.B. Studio",
+      "Developer(s)": "Bandai Namco Entertainment",
+      "Publisher(s)": "[125]"
+    },
+    {
+      "Month": "Fantavision 202X",
+      "Day": "PS5",
+      "Title": "Action puzzle",
+      "Platform(s)": "Cosmo Machia",
+      "Genre(s)": "Cosmo Machia",
+      "Developer(s)": "[126]"
+    },
+    {
+      "Month": "Horizon Call of the Mountain",
+      "Day": "PS5",
+      "Title": "Action-adventure",
+      "Platform(s)": "Guerrilla Games, Firesprite",
+      "Genre(s)": "Sony Interactive Entertainment",
+      "Developer(s)": "[127]"
+    },
+    {
+      "Month": "Kizuna AI: Touch the Beat!",
+      "Day": "PS5",
+      "Title": "Rhythm",
+      "Platform(s)": "Gemdrops",
+      "Genre(s)": "Gemdrops",
+      "Developer(s)": "[128]"
+    },
+    {
+      "Month": "Redemption Reapers",
+      "Day": "Win, NS, PS4",
+      "Title": "Strategy, role-playing",
+      "Platform(s)": "Adglobe",
+      "Genre(s)": "Binary Haze Interactive",
+      "Developer(s)": "[129]"
+    },
+    {
+      "Month": "23",
+      "Day": "Blood Bowl 3",
+      "Title": "Win, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Sports",
+      "Genre(s)": "Cyanide",
+      "Developer(s)": "Nacon",
+      "Publisher(s)": "[130]"
+    },
+    {
+      "Month": "Company of Heroes 3",
+      "Day": "Win",
+      "Title": "Real-time strategy",
+      "Platform(s)": "Relic Entertainment",
+      "Genre(s)": "Sega",
+      "Developer(s)": "[131]"
+    },
+    {
+      "Month": "Gal Guardians: Demon Purge",
+      "Day": "Win, NS, PS4, PS5, XBO, XSX",
+      "Title": "Action",
+      "Platform(s)": "Inti Creates",
+      "Genre(s)": "Inti Creates",
+      "Developer(s)": "[132][133]"
+    },
+    {
+      "Month": "Raiden III x Mikado Maniax[b]",
+      "Day": "Win, NS, PS4, PS5, XBO, XSX",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Moss",
+      "Genre(s)": "Moss",
+      "Developer(s)": "[134]"
+    },
+    {
+      "Month": "24",
+      "Day": "Clive 'N' Wrench",
+      "Title": "Win, NS, PS4, PS5",
+      "Platform(s)": "Platform",
+      "Genre(s)": "Dinosaur Bytes",
+      "Developer(s)": ""
+    },
+    {
+      "Month": "WW: Numskull Games"
+    },
+    {
+      "Month": "EU: PM Studios"
+    },
+    {
+      "Month": "",
+      "Day": "[135][136]"
+    },
+    {
+      "Month": "Kirby's Return to Dream Land Deluxe",
+      "Day": "NS",
+      "Title": "Platform",
+      "Platform(s)": "HAL Laboratory",
+      "Genre(s)": "Nintendo",
+      "Developer(s)": "[137]"
+    },
+    {
+      "Month": "Octopath Traveler II",
+      "Day": "Win, NS, PS4, PS5",
+      "Title": "Role-playing",
+      "Platform(s)": "Acquire, Square Enix",
+      "Genre(s)": "Square Enix",
+      "Developer(s)": "[138]"
+    },
+    {
+      "Month": "28",
+      "Day": "Destiny 2: Lightfall",
+      "Title": "Win, PS4, PS5, XBO, XSX",
+      "Platform(s)": "First-person shooter",
+      "Genre(s)": "Bungie",
+      "Developer(s)": "Bungie",
+      "Publisher(s)": "[139]"
+    },
+    {
+      "Month": "Dungeons of Aether",
+      "Day": "Win",
+      "Title": "Turn-based strategy",
+      "Platform(s)": "Dan Fornace, AmpersandBear",
+      "Genre(s)": "Dan Fornace",
+      "Developer(s)": "[140]"
+    },
+    {
+      "Month": "Scars Above",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Third-person shooter",
+      "Platform(s)": "Mad Head Games",
+      "Genre(s)": "Prime Matter",
+      "Developer(s)": "[141]"
+    },
+    {
+      "Month": "void tRrLM2(); //Void Terrarium 2[a]",
+      "Day": "NS, PS4",
+      "Title": "Roguelike, action role-playing",
+      "Platform(s)": "Nippon Ichi Software",
+      "Genre(s)": "Nippon Ichi Software",
+      "Developer(s)": "[142]"
+    },
+    {
+      "Month": "M"
+    },
+    {
+      "Month": "A"
+    },
+    {
+      "Month": "R"
+    },
+    {
+      "Month": "C"
+    },
+    {
+      "Month": "H",
+      "Day": "1",
+      "Title": "Bendy and the Dark Revival",
+      "Platform(s)": "PS4, PS5, XBO, XSX",
+      "Genre(s)": "Survival horror",
+      "Developer(s)": "Kindly Beast",
+      "Publisher(s)": "Rooster Teeth Games",
+      "Ref.": "[143]"
+    },
+    {
+      "Month": "Brok the InvestiGator",
+      "Day": "NS, PS4, PS5, XBO",
+      "Title": "Point-and-click adventure, beat 'em up",
+      "Platform(s)": "CowCat Games",
+      "Genre(s)": "CowCat Games",
+      "Developer(s)": "[144]"
+    },
+    {
+      "Month": "Puppet Master: The Game",
+      "Day": "Win",
+      "Title": "Survival horror",
+      "Platform(s)": "October Games",
+      "Genre(s)": "Full Moon Features, October Games",
+      "Developer(s)": "[145]"
+    },
+    {
+      "Month": "2",
+      "Day": "Fitness Boxing Fist of the North Star[a]",
+      "Title": "NS",
+      "Platform(s)": "Exergaming",
+      "Genre(s)": "Imagineer",
+      "Developer(s)": "Imagineer",
+      "Publisher(s)": "[146][147]"
+    },
+    {
+      "Month": "Rune Factory 3 Special[b]",
+      "Day": "NS",
+      "Title": "Simulation, role-playing",
+      "Platform(s)": "Marvelous",
+      "Genre(s)": "Marvelous",
+      "Developer(s)": "[148]"
+    },
+    {
+      "Month": "3",
+      "Day": "void tRrLM2(); //Void Terrarium 2[e]",
+      "Title": "NS, PS4",
+      "Platform(s)": "Roguelike, action role-playing",
+      "Genre(s)": "Nippon Ichi Software",
+      "Developer(s)": "Nippon Ichi Software",
+      "Publisher(s)": "[149]"
+    },
+    {
+      "Month": "Wo Long: Fallen Dynasty",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Action role-playing",
+      "Platform(s)": "Team Ninja",
+      "Genre(s)": "Koei Tecmo",
+      "Developer(s)": "[150]"
+    },
+    {
+      "Month": "7",
+      "Day": "Rogue Spirit",
+      "Title": "Win, PS5, XSX",
+      "Platform(s)": "Action Roguelike",
+      "Genre(s)": "Kids With Sticks",
+      "Developer(s)": "505 Games",
+      "Publisher(s)": "[151]"
+    },
+    {
+      "Month": "Romancelvania",
+      "Day": "Win, PS5, XSX",
+      "Title": "Action role-playing",
+      "Platform(s)": "The Deep End Games",
+      "Genre(s)": "2124 Publishing",
+      "Developer(s)": "[152]"
+    },
+    {
+      "Month": "9",
+      "Day": "Caverns of Mars: Recharged",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Scrolling shooter",
+      "Genre(s)": "Adamvision Studios",
+      "Developer(s)": "Atari",
+      "Publisher(s)": "[153]"
+    },
+    {
+      "Month": "Clash: Artifacts of Chaos",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Action role-playing, beat 'em up",
+      "Platform(s)": "ACE Team",
+      "Genre(s)": "Nacon",
+      "Developer(s)": "[154]"
+    },
+    {
+      "Month": "Fatal Frame: Mask of the Lunar Eclipse[a]",
+      "Day": "Win, NS, PS4, PS5, XBO, XSX",
+      "Title": "Survival horror",
+      "Platform(s)": "Koei Tecmo, Grasshopper Manufacture",
+      "Genre(s)": "Koei Tecmo",
+      "Developer(s)": "[155][156]"
+    },
+    {
+      "Month": "Ib",
+      "Day": "NS",
+      "Title": "Horror adventure",
+      "Platform(s)": "Kouri",
+      "Genre(s)": "Playism",
+      "Developer(s)": "[157]"
+    },
+    {
+      "Month": "The Last Spell",
+      "Day": "Win, NS, PS4, PS5",
+      "Title": "Turn-based strategy, role-playing",
+      "Platform(s)": "Ishtar Games",
+      "Genre(s)": "The Arcade Crew",
+      "Developer(s)": "[158]"
+    },
+    {
+      "Month": "Oni: Road to Be The Mightiest Oni",
+      "Day": "NS",
+      "Title": "Action-adventure",
+      "Platform(s)": "Kenei Design, Shueisha Games",
+      "Genre(s)": "Clouded Leopard Entertainment",
+      "Developer(s)": "[52]"
+    },
+    {
+      "Month": "Paranormasight: The Seven Mysteries of Honjo",
+      "Day": "NS, iOS, Droid",
+      "Title": "Horror, adventure",
+      "Platform(s)": "Square Enix",
+      "Genre(s)": "Square Enix",
+      "Developer(s)": "[159]"
+    },
+    {
+      "Month": "Ray'z Arcade Chronology[b]",
+      "Day": "NS, PS4",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "M2",
+      "Genre(s)": "Taito",
+      "Developer(s)": "[160]"
+    },
+    {
+      "Month": "Record of Agarest War[a]",
+      "Day": "NS",
+      "Title": "Tactical role-playing",
+      "Platform(s)": "Compile Heart",
+      "Genre(s)": "Aksys Games",
+      "Developer(s)": "[161]"
+    },
+    {
+      "Month": "Space Tail: Every Journey Leads Home",
+      "Day": "PS4, PS5, XBO, XSX",
+      "Title": "Adventure, platform",
+      "Platform(s)": "Longterm Games, Enjoy Studio",
+      "Genre(s)": "Longterm Games",
+      "Developer(s)": "[162]"
+    },
+    {
+      "Month": "10",
+      "Day": "Mato Anomalies",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Turn-based role-playing",
+      "Genre(s)": "Prime Matter",
+      "Developer(s)": "Arrowiz",
+      "Publisher(s)": "[163]"
+    },
+    {
+      "Month": "13",
+      "Day": "Barotrauma",
+      "Title": "Win",
+      "Platform(s)": "survival-horror role-playing",
+      "Genre(s)": "Undertow Games, Fakefish Games",
+      "Developer(s)": "Daedalic Entertainment",
+      "Publisher(s)": "[164]"
+    },
+    {
+      "Month": "14",
+      "Day": "Hot Wheels: Rift Rally",
+      "Title": "iOS, PS4, PS5",
+      "Platform(s)": "Racing",
+      "Genre(s)": "Velan Studios",
+      "Developer(s)": "Velan Studios",
+      "Publisher(s)": "[165]"
+    },
+    {
+      "Month": "The Legend of Heroes: Trails to Azure",
+      "Day": "Win, NS, PS4",
+      "Title": "Role-playing",
+      "Platform(s)": "Nihon Falcom",
+      "Genre(s)": "NIS America",
+      "Developer(s)": "[166]"
+    },
+    {
+      "Month": "Vernal Edge",
+      "Day": "Win, NS, PS4, PS5, XBO, XSX",
+      "Title": "Metroidvania, action",
+      "Platform(s)": "Hello Penguin Team",
+      "Genre(s)": "PID Games",
+      "Developer(s)": "[167]"
+    },
+    {
+      "Month": "15",
+      "Day": "Blade of Darkness",
+      "Title": "PS4, PS5, XBO, XSX",
+      "Platform(s)": "Action",
+      "Genre(s)": "Rebel Act Studios, Fire Falcom",
+      "Developer(s)": "SNEG",
+      "Publisher(s)": "[168]"
+    },
+    {
+      "Month": "16",
+      "Day": "Alice Gear Aegis CS: Concerto of Simulatrix[a]",
+      "Title": "NS, PS4, PS5",
+      "Platform(s)": "Action",
+      "Genre(s)": "Pyramid",
+      "Developer(s)": "PQube",
+      "Publisher(s)": "[169]"
+    },
+    {
+      "Month": "The Dark Pictures: Switchback VR",
+      "Day": "PS5",
+      "Title": "Horror",
+      "Platform(s)": "Supermassive Games",
+      "Genre(s)": "Supermassive Games",
+      "Developer(s)": "[170]"
+    },
+    {
+      "Month": "Post Void",
+      "Day": "NS, PS4",
+      "Title": "First-person shooter",
+      "Platform(s)": "YCJY Games",
+      "Genre(s)": "Super Rare Originals",
+      "Developer(s)": "[171]"
+    },
+    {
+      "Month": "17",
+      "Day": "Bayonetta Origins: Cereza and the Lost Demon",
+      "Title": "NS",
+      "Platform(s)": "Action-adventure",
+      "Genre(s)": "PlatinumGames",
+      "Developer(s)": "Nintendo",
+      "Publisher(s)": "[172]"
+    },
+    {
+      "Month": "Flame Keeper",
+      "Day": "Win, NS",
+      "Title": "Roguelike action",
+      "Platform(s)": "Kautki Cave",
+      "Genre(s)": "Untold Tales",
+      "Developer(s)": "[173]"
+    },
+    {
+      "Month": "WWE 2K23",
+      "Day": "Win, PS4, PS5, XBO, XSX",
+      "Title": "Sport",
+      "Platform(s)": "Visual Concepts",
+      "Genre(s)": "2K Sports",
+      "Developer(s)": "[174][175][176]"
+    },
+    {
+      "Month": "21",
+      "Day": "Deceive Inc.",
+      "Title": "Win, PS5, XSX",
+      "Platform(s)": "Stealth",
+      "Genre(s)": "Sweet Bandits Studios",
+      "Developer(s)": "Tripwire Presents",
+      "Publisher(s)": "[177]"
+    },
+    {
+      "Month": "Mighty Doom",
+      "Day": "iOS, Droid",
+      "Title": "Top-down shooter",
+      "Platform(s)": "Alpha Dog Games",
+      "Genre(s)": "Bethesda Softworks",
+      "Developer(s)": "[178][179]"
+    },
+    {
+      "Month": "Ni no Kuni II: Revenant Kingdom",
+      "Day": "XBO, XSX",
+      "Title": "Role-playing",
+      "Platform(s)": "Level-5",
+      "Genre(s)": "Bandai Namco Entertainment",
+      "Developer(s)": "[180]"
+    },
+    {
+      "Month": "Remnant: From the Ashes",
+      "Day": "NS",
+      "Title": "Action role-playing, third-person shooter",
+      "Platform(s)": "Gunfire Games",
+      "Genre(s)": "Perfect World Entertainment",
+      "Developer(s)": "[52][181]"
+    },
+    {
+      "Month": "Tchia",
+      "Day": "Win, PS4, PS5",
+      "Title": "Action-adventure",
+      "Platform(s)": "Awaceb",
+      "Genre(s)": "Awaceb",
+      "Developer(s)": "[182]"
+    },
+    {
+      "Month": "22",
+      "Day": "Have a Nice Death",
+      "Title": "Win, NS",
+      "Platform(s)": "Metroidvania, platform-adventure",
+      "Genre(s)": "Magic Design Studios",
+      "Developer(s)": "Gearbox Publishing",
+      "Publisher(s)": "[52][183]"
+    },
+    {
+      "Month": "23",
+      "Day": "Atelier Ryza 3: Alchemist of the End & the Secret Key[b]",
+      "Title": "Win, NS, PS4, PS5",
+      "Platform(s)": "Role-playing",
+      "Genre(s)": "Gust",
+      "Developer(s)": "Koei Tecmo",
+      "Publisher(s)": "[184]"
+    },
+    {
+      "Month": "Omen of Sorrow",
+      "Day": "Win, NS, PS5",
+      "Title": "Fighting",
+      "Platform(s)": "AOne Games",
+      "Genre(s)": "Eastasiasoft",
+      "Developer(s)": "[185]"
+    },
+    {
+      "Month": "Rakuen",
+      "Day": "NS",
+      "Title": "Adventure",
+      "Platform(s)": "Leeble Forest",
+      "Genre(s)": "Leeble Forest",
+      "Developer(s)": "[186]"
+    },
+    {
+      "Month": "R-Type Final 3 Evolved[b]",
+      "Day": "PS5",
+      "Title": "Shoot 'em up",
+      "Platform(s)": "Granzella",
+      "Genre(s)": "Granzella",
+      "Developer(s)": "[187]"
+    },
+    {
+      "Month": "Song of Memories",
+      "Day": "NS",
+      "Title": "Visual novel",
+      "Platform(s)": "PureWish",
+      "Genre(s)": "Future Tech Lab",
+      "Developer(s)": "[188]"
+    },
+    {
+      "Month": "Storyteller",
+      "Day": "Win, NS",
+      "Title": "Puzzle adventure",
+      "Platform(s)": "Daniel Benmergui",
+      "Genre(s)": "Annapurna Interactive",
+      "Developer(s)": "[52]"
+    },
+    {
+      "Month": "24",
+      "Day": "Resident Evil 4",
+      "Title": "Win, PS4, PS5, XSX",
+      "Platform(s)": "Survival horror",
+      "Genre(s)": "Capcom",
+      "Developer(s)": "Capcom",
+      "Publisher(s)": "[189]"
+    },
+    {
+      "Month": "27",
+      "Day": "9 Years of Shadows",
+      "Title": "Win",
+      "Platform(s)": "Metroidvania",
+      "Genre(s)": "Halberd Studios",
+      "Developer(s)": "Freedom Games",
+      "Publisher(s)": "[190]"
+    },
+    {
+      "Month": "28",
+      "Day": "Crime Boss: Rockay City",
+      "Title": "Win",
+      "Platform(s)": "First-person shooter",
+      "Genre(s)": "Ingame Studios",
+      "Developer(s)": "505 Games",
+      "Publisher(s)": "[191]"
+    },
+    {
+      "Month": "The Last of Us Part I",
+      "Day": "Win",
+      "Title": "Action-adventure",
+      "Platform(s)": "Naughty Dog",
+      "Genre(s)": "Sony Interactive Entertainment",
+      "Developer(s)": "[192][193]"
+    },
+    {
+      "Month": "MLB The Show 23",
+      "Day": "NS, PS4, PS5, XBO, XSX",
+      "Title": "Sport",
+      "Platform(s)": "San Diego Studio",
+      "Genre(s)": "Sony Interactive Entertainment",
+      "Developer(s)": "[194]"
+    },
+    {
+      "Month": "Sifu",
+      "Day": "XBO, XSX",
+      "Title": "Beat 'em up",
+      "Platform(s)": "Sloclap",
+      "Genre(s)": "Sloclap",
+      "Developer(s)": "[195]"
+    },
+    {
+      "Month": "30",
+      "Day": "Dredge",
+      "Title": "Win, NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Fishing adventure",
+      "Genre(s)": "Black Salt Games",
+      "Developer(s)": "Team17",
+      "Publisher(s)": "[196]"
+    },
+    {
+      "Month": "The Great War: Western Front",
+      "Day": "Win",
+      "Title": "Real-time strategy",
+      "Platform(s)": "Petroglyph Games",
+      "Genre(s)": "Frontier Foundry",
+      "Developer(s)": "[197]"
+    },
+    {
+      "Month": "The Last Worker",
+      "Day": "Win, NS, PS5, XSX",
+      "Title": "Adventure",
+      "Platform(s)": "Wolf & Wood, Oiffy",
+      "Genre(s)": "Wire Productions",
+      "Developer(s)": "[198]"
+    },
+    {
+      "Month": "Lunark",
+      "Day": "Win, NS, XBO, XSX",
+      "Title": "Platform, adventure",
+      "Platform(s)": "Canari Games",
+      "Genre(s)": "WayForward",
+      "Developer(s)": "[199]"
+    },
+    {
+      "Month": "Norn9: Var Commons[a]",
+      "Day": "NS",
+      "Title": "Visual novel",
+      "Platform(s)": "Regista",
+      "Genre(s)": "Aksys Games",
+      "Developer(s)": "[200]"
+    },
+    {
+      "Month": "Ravenbound",
+      "Day": "Win",
+      "Title": "Action role-playing, roguelite",
+      "Platform(s)": "Systemic Reaction",
+      "Genre(s)": "Systemic Reaction",
+      "Developer(s)": "[201][202]"
+    },
+    {
+      "Month": "Saga of Sins",
+      "Day": "Win, NS, PS4, PS5, XBO, XSX",
+      "Title": "Action-adventure",
+      "Platform(s)": "Bonus Level Entertainment",
+      "Genre(s)": "Just For Games",
+      "Developer(s)": "[203]"
+    },
+    {
+      "Month": "31",
+      "Day": "Blade Assault",
+      "Title": "NS, PS4, PS5, XBO, XSX",
+      "Platform(s)": "Roguelike, platform",
+      "Genre(s)": "Team Suneat",
+      "Developer(s)": "PM Studios",
+      "Publisher(s)": "[204]"
+    },
+    {
+      "Month": "The Murder of Sonic the Hedgehog",
+      "Day": "Win, Mac",
+      "Title": "Visual novel, point and click adventure",
+      "Platform(s)": "Sega Social Team",
+      "Genre(s)": "Sega",
+      "Developer(s)": "[205]"
+    }
+  ]
+}

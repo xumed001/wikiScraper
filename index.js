@@ -18,17 +18,17 @@ async function scrapeInnerTextFromTable() {
   });
 
   const lines = innerText.split('\n');
-const headers = lines[0].split('\t');
+  const headers = lines[0].split('\t');
 
-const games = [];
-for (let i = 1; i < lines.length; i++) {
-  const values = lines[i].split('\t');
-  const game = {};
-  for (let j = 0; j < headers.length; j++) {
-    game[headers[j]] = values[j];
+  const games = [];
+  for (let i = 7; i < lines.length; i++) {
+    const values = lines[i].split('\t');
+    const game = {};
+    for (let j = 0; j < headers.length; j++) {
+      game[headers[j]] = values[j];
+    }
+    games.push(game);
   }
-  games.push(game);
-}
 
   const jsonData = { games };
   
